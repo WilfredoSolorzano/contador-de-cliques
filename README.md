@@ -1,6 +1,6 @@
 # Contador de Cliques
 
-Este projeto é uma aplicação simples de contador de cliques desenvolvida com JavaScript, HTML e CSS. É ideal para praticar conceitos básicos de manipulação do DOM e interatividade na web.
+Este projeto é uma aplicação simples React  para criar um contador de cliques. Esta atividade ajuda a entender os conceitos básicos de componentes, estado (state) e eventos no React.
 
 ## Funcionalidades
 - Incrementar o número de cliques ao pressionar o botão.
@@ -15,3 +15,7 @@ Para executar este projeto, você precisará de:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/WilfredoSolorzano/contador-de-cliques.git
+
+   ## Autor
+
+Desenvolvido por Wilfredo Solórzano.
